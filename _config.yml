@@ -36,41 +36,25 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Narrator can read ePub books and text files with natural sounding voices.
-    fontawesome_icon_name                 : magic
+  - title                                 : Different Voices
+    description                           : Narrator can read ePub books and text files with natural sounding voices
+    fontawesome_icon_name                 : users
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Many Languages
+    description                           : More then 25 languages supported
+    fontawesome_icon_name                 : language
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Add your e-book and Listen
+    description                           : Supported formats: ePub, txt, rtf, docx, pdf
+    fontawesome_icon_name                 : book
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Create Audiobooks
+    description                           : Convert e-book to .m4a audio file
+    fontawesome_icon_name                 : headphones-simple
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
-  
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
-
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : Save & Share
+    description                           : Share created audiobooks with friends & colleagues
+    fontawesome_icon_name                 : share-all
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
@@ -101,7 +85,7 @@ feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
 feature_icons_foreground_color            : "#5856D6"
-feature_icons_background_color            : "#e6e6e6"
+feature_icons_background_color            : "#f2f2f2"
 
 social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
