@@ -37,23 +37,23 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Different Voices
-    description                           : Narrator can read ePub books and text files with natural sounding voices
+    description                           : "Narrator can read ePub books and text files with natural sounding voices"
     fontawesome_icon_name                 : users
     
   - title                                 : Many Languages
-    description                           : More then 25 languages supported
+    description                           : "More then 25 languages supported"
     fontawesome_icon_name                 : language
 
   - title                                 : Add your e-book and Listen
-    description                           : Supported formats: ePub, txt, rtf, docx, pdf
+    description                           : "Supported formats: ePub, txt, rtf, docx, pdf"
     fontawesome_icon_name                 : book
 
   - title                                 : Create Audiobooks
-    description                           : Convert e-book to .m4a audio file
+    description                           : "Convert e-book to .m4a audio file"
     fontawesome_icon_name                 : headphones-simple
 
   - title                                 : Save & Share
-    description                           : Share created audiobooks with friends & colleagues
+    description                           : "Share created audiobooks with friends & colleagues"
     fontawesome_icon_name                 : share-all
 
   - title                                 : # New Feature Title
