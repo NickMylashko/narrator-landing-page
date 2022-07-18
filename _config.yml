@@ -20,7 +20,7 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : # Emil Baehr
+your_name                                 : Nick,
 your_link                                 : # https://emilbaehr.com
 your_city                                 : Odessa, 2022
 email_address                             : audiobook.maker.app@gmail.com
@@ -44,17 +44,21 @@ features                                  :
     description                           : "More then 25 languages supported"
     fontawesome_icon_name                 : language
 
-  - title                                 : Add your e-book and Listen
+  - title                                 : Add and Listen
     description                           : "Supported formats: ePub, txt, rtf, docx, pdf"
     fontawesome_icon_name                 : book
 
   - title                                 : Create Audiobooks
     description                           : "Convert e-book to .m4a audio file"
-    fontawesome_icon_name                 : headphones-simple
+    fontawesome_icon_name                 : headphones
 
+  - title                                 : Reading Speed
+    description                           : "Listen to books at a comfortable reading speed"
+    fontawesome_icon_name                 : gauge
+    
   - title                                 : Save & Share
     description                           : "Share created audiobooks with friends & colleagues"
-    fontawesome_icon_name                 : share-all
+    fontawesome_icon_name                 : share
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
