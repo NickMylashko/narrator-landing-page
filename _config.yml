@@ -48,13 +48,13 @@ features                                  :
     description                           : "Supported formats: ePub, txt, rtf, docx, pdf"
     fontawesome_icon_name                 : book
 
-  - title                                 : Create Audiobooks
-    description                           : "Convert e-book to .m4a audio file"
-    fontawesome_icon_name                 : headphones
-
   - title                                 : Reading Speed
     description                           : "Listen to books at a comfortable reading speed"
     fontawesome_icon_name                 : forward
+
+  - title                                 : Create Audiobooks
+    description                           : "Convert e-book to .m4a audio file"
+    fontawesome_icon_name                 : headphones
     
   - title                                 : Save & Share
     description                           : "Share created audiobooks with friends & colleagues"
