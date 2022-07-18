@@ -20,14 +20,15 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Emil Baehr                                
-your_link                                 : https://emilbaehr.com                     
-your_city                                 : Copenhagen                                
-email_address                             : emil.baehr@gmail.com
+your_name                                 : # Emil Baehr
+your_link                                 : # https://emilbaehr.com
+your_city                                 : # Copenhagen
+email_address                             : audiobook.maker.app@gmail.com
+
 facebook_username                         :                                           
-instagram_username                        : ebaehr
-twitter_username                          : ebaehr
-github_username                           : emilbaehr
+instagram_username                        : # ebaehr
+twitter_username                          : # ebaehr
+github_username                           : # emilbaehr
 youtube_username                          :
 
 
@@ -79,7 +80,7 @@ features                                  :
 
 # Theme Settings
 topbar_color                              : "#000000"
-topbar_transparency                       : 0.1
+topbar_transparency                       : 0.3
 topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/headerimage.jpeg                    # Replace with alternative image path or image URL.
@@ -92,9 +93,9 @@ body_background_color                     : "#ffffff"
 
 link_color                                : "#1d63ea"
 
-app_title_color                           : "#ffffff"
-app_price_color                           : "#ffffff"
-app_description_color                     : "#ffffff"
+app_title_color                           : "#2b2b2d"
+app_price_color                           : "#2b2b2d"
+app_description_color                     : "#2b2b2d"
 
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
