@@ -24,6 +24,7 @@ For a better experience, while using our Service, I may require you to provide u
 Link to the privacy policy of third-party service providers used by the app
 
 - [Amplitude](https://amplitude.com/privacy)
+- [Google Analytics](https://www.google.com/policies/privacy/?hl=en-US)
 
 ## Log Data
 
