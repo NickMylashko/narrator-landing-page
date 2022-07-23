@@ -13,16 +13,17 @@ presskit_download_link                    : # https://emilbaehr.com             
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : "Audio Text Reader: Ebook & PDF\n\n Free Text to Speech"
+app_description                           : "Audio Text Reader: Ebook & PDF"
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
 # Information About Yourself
-your_name                                 : love,
+your_name                                 : Nick
 your_link                                 : # https://emilbaehr.com
-your_city                                 : Odessa, 2022
+#your_city                                 : Odessa, 2022
+your_city                                 : Free Text to Speech App
 email_address                             : audiobook.maker.app@gmail.com
 
 facebook_username                         :                                           
