@@ -62,4 +62,4 @@ This policy is effective as of 2022-05-31
 
 ## Contact Us
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at <audiobook.maker.app@gmail.com>
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at <narrator.app@icloud.com>
